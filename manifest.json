@@ -1,0 +1,8 @@
+{
+  "name": "Mi Calendario de Turnos",
+  "short_name": "Mis Turnos",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f6f7fb"
+}
